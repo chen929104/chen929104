@@ -1,4 +1,4 @@
-### Hi there 👋
+### 自律给我自由
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chen929104)](https://github.com/anuraghazra/github-readme-stats)
 
