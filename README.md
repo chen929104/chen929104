@@ -1,4 +1,4 @@
-### 不患无己知,求为可知也！
+### 不患莫己知,求为可知也！
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chen929104)](https://github.com/anuraghazra/github-readme-stats)
 
